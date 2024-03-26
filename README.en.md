@@ -11,8 +11,9 @@ digital cocktail maker!
 
 ### This app will allow you to easily find and add your favorite cocktail recipes and create your own unique ones.
 
-📌 This is a team project. I worked on a part of it: 
-### Welcome Page / Signup Page / Signin Page
+**📌 This is a team project. I worked on a part of it:**
+
+**Welcome Page / Signup Page / Signin Page**
 
 **- Routing** /welcome /signup /signin.
 
