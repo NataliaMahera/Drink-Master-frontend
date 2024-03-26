@@ -25,7 +25,7 @@ digital cocktail maker!
 
 **- Readme.md / Readme.en.md.**
 
-## 🔍Here's some functionality:
+## 🔍Here's some app functionality:
 
 📋 **Sign Up page** - sign up and log in to your account to create, store, and
 edit your collections.
