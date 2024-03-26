@@ -11,10 +11,17 @@ digital cocktail maker!
 
 ### This app will allow you to easily find and add your favorite cocktail recipes and create your own unique ones.
 
+📌 This is a team project. I worked on a part of it: 
+### Welcome Page / Signup Page / Signin Page
+
 **- Routing** /welcome /signup /signin.
+
 **- Adaptive layout** 
+
 **- Creating form components** [Authforms: SignInForm, SignUpForm].
+
 **- Additional styling and animation of application elements:** Loader / TypingText / reUseButtons [Add drink / Other drinks / Add / Add favourite drinks / See more / Delete Button / Header Nav Links / FollowUs].
+
 **- Readme.md / Readme.en.md.**
 
 ## 🔍Here's some functionality:
