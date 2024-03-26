@@ -11,15 +11,15 @@
 📌 Це командний проєкт. Я працювала над його частиною : 
 ### Welcome Page / Signup Page / Signin Page
 
-•	Маршрутизація /welcome /signup /signin.
+**•	Маршрутизація** /welcome /signup /signin.
 
-•	Адаптивна верстка цих сторінок.
+**•	Адаптивна верстка** 
 
-•	Створення компонентів форм [Authforms: SignInForm, SignUpForm].
+**•	Створення компонентів форм** [Authforms: SignInForm, SignUpForm].
 
-•	Додаткова стилізація та анімація елементів додатку: Loader/ TypingText / reUseButtons [Add drink / Other drinks / Add / Add favorite drinks / See more / Delete Button / Header Nav Links / FollowUs].
+**•	Додаткова стилізація та анімація елементів додатку:** Loader/ TypingText / reUseButtons [Add drink / Other drinks / Add / Add favorite drinks / See more / Delete Button / Header Nav Links / FollowUs].
 
-•	Readme.md / Readme.en.md.
+**•	Readme.md / Readme.en.md.**
 
 ## 🔍Ось деякий функціонал додатку:
 
